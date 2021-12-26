@@ -1,4 +1,4 @@
-tellraw @s {"rawtext":[{"text":"§¶§cUAC ► §bDiscord.gg/UQ56g9a"}]}
+tellraw @s {"rawtext":[{"text":"§¶§cUAC ► §b Eclyptic Studios Discord! Discord.gg/Yczf3r8m8G"}]}
 
 
 #This hides this from the in-game function command directory
